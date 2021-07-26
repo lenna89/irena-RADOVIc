@@ -1,3 +1,27 @@
-body{
-background-color: aqua;
+body{background: gray;}
+
+h1,
+h2,
+h3{color: black;
+font-family:"Play fair Display", serif;
+font-weight: bold;}
+
+h1{font-size: 96px;}
+p{font-family: "Poppins" sans-serif;
+font-weight: normal;}
+
+.writer{
+padding:160px 20px;
+background:#f9f7fe;
 }
+ .writer p{
+ font-family:"Play";
+ font-size: 36px;
+ font-weight: bold;
+ margin: 0;
+ color: #666374;}
+
+ .writer h2{
+ font-family:"Poppins" sans-serif;
+ font-weight: normal;
+ line-height: 2;}
