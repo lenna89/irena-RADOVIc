@@ -11,6 +11,7 @@ p{font-family: "Poppins" sans-serif;
 font-weight: normal;}
 
 .writer{
+text-align: center;
 padding:160px 20px;
 background:#f9f7fe;
 }
@@ -24,4 +25,14 @@ background:#f9f7fe;
  .writer h2{
  font-family:"Poppins" sans-serif;
  font-weight: normal;
- line-height: 2;}
+ line-height: 2;
+ font-size: 24px;}
+
+ .btn-branding{
+ 
+ border-radius: 4px darkblue;
+ background: rgb(146, 137, 137);
+ color:white;
+ font-size: 18px;
+ line-height: 27px;
+ padding: 15px 20px;}
